@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80d2ef55-1b57-4ae0-9d77-5120f76af3dd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DorothyBeatrizDone"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DorothyBeatrizDone/lab2-branching-and-merging.git",
+    "accountId": "707ae24b-4ae6-49c6-b3d9-dabaacd73a36"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7182191499187716" />
+      <entry key="MS500" value="3.17198786127519" />
+      <entry key="S2" value="6.47752181345411" />
+      <entry key="S5" value="8.293624333223184" />
+      <entry key="S10" value="9.08681715823608" />
+      <entry key="S30" value="9.681120875253427" />
+      <entry key="S60" value="9.838844455412024" />
+      <entry key="M2" value="10.01758447818227" />
+      <entry key="M5" value="14.598972469592326" />
+      <entry key="M10" value="27.219261211227327" />
+      <entry key="M15" value="36.91967221350549" />
+      <entry key="M30" value="52.320391135075795" />
+      <entry key="H1" value="63.197440159460406" />
+      <entry key="H2" value="69.68594869481464" />
+      <entry key="H4" value="73.23319302917784" />
+      <entry key="D1" value="76.35635583697324" />
+      <entry key="W1" value="76.90765481685388" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6459910009009715" />
+      <entry key="MS500" value="3.141722790112298" />
+      <entry key="S2" value="6.454754588563618" />
+      <entry key="S5" value="8.280880529129236" />
+      <entry key="S10" value="9.079639939874099" />
+      <entry key="S30" value="9.678526344985048" />
+      <entry key="S60" value="9.837520319231892" />
+      <entry key="M2" value="10.016909330662624" />
+      <entry key="M5" value="14.598567940358631" />
+      <entry key="M10" value="27.218855868324383" />
+      <entry key="M15" value="36.919292341175655" />
+      <entry key="M30" value="52.320111053666956" />
+      <entry key="H1" value="63.197267415025564" />
+      <entry key="H2" value="69.68585242717984" />
+      <entry key="H4" value="73.23314217038747" />
+      <entry key="D1" value="76.35634695879573" />
+      <entry key="W1" value="76.907653538388" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JeR98VF7Kn6xQDRkUf6D0prSte" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.DataTypesTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "task__1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d2ef55-1b57-4ae0-9d77-5120f76af3dd" name="Changes" comment="" />
+      <created>1790019393314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790019393314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataTypesTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
